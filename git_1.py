@@ -9,7 +9,7 @@ class Image():
 
 class Sonido():
     def reproducir(self):
-        pass
+        print("puto el que lo lea")
     def volumen(self):
         pass
     def fourier(self):
