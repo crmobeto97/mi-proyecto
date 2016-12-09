@@ -11,6 +11,6 @@ class Sonido():
     def reproducir(self):
         print("puto el que lo lea")
     def volumen(self):
-        pass
+        print("esto es en jueves XD")
     def fourier(self):
         pass
